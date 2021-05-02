@@ -16,3 +16,5 @@ Questões:
 2. Além do AIMED qual outro método poderia ser utilizado para avaliação do jogo Testing Game? 
 3. Quais outros tipos de defeitos podem ser melhor identificados por analisadores estáticos? 
 4. A não utilização de código na análise estática poderia ser prejudicial ao testar softwares?
+
+Isabella Pimenta
